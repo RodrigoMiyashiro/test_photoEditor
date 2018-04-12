@@ -1,0 +1,12 @@
+PODS:
+  - iOSPhotoEditor (0.5)
+
+DEPENDENCIES:
+  - iOSPhotoEditor
+
+SPEC CHECKSUMS:
+  iOSPhotoEditor: 0ddc84bcef9fe73fe8cc45ac999b89e0aa207aea
+
+PODFILE CHECKSUM: e6cba61891839d269df3a75c8dc17dbf43879d00
+
+COCOAPODS: 1.4.0
